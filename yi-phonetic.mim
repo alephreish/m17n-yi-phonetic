@@ -35,45 +35,47 @@
 	("d" ?ד)
 	("D" "ּ") ; dogesh
 	("e" ?ע)
-	("E" ?ע) ; duplicate
+	("E" "ֶ") ; segol
 	("f" ?פ)
 	("F" ?ף)
 	("g" ?ג)
 	("G" ?ג) ; duplicate
 	("h" ?ה)
 	("H" ?ח)
-	("i" "ִ") ; khirik
-	("I" "ִ") ; duplicate
-	("j" "י")
+	("i" ?י)
+	("I" "ִ") ; khirik
+	("j" "י") ; duplicate
 	("J" "ײ")
 	("k" ?כ)
 	("K" ?ך)
  	("l" ?ל)
-	("L" ?ל) ; double
+	("L" ?ל) ; duplicate
 	("m" ?מ)
 	("M" ?ם)
 	("n" ?נ)
 	("N" ?ן)
 	("o" "אָ")
-	("O" "ֹ") ; khoylom
+	("O" "ֹ") ; khoylem
 	("p" "פּ")
-	("P" "ַ")
+	("P" "ַ") ; pasekh
 	("q" ?ק)
 	("Q" "ָ") ; kometz
 	("r" ?ר)
-	("R" "ֿ")
-	("s" ?ש) ; rofe
+	("R" "ֿ") ; rofe
+	("s" ?ש)
 	("S" "שׁ")
 	("t" ?ט)
 	("T" ?ת)
-	("u" "ֻ") ; kubbutz
+	("u" "ֻ") ; kibutz
 	("U" "ױ")
-	("v" ?ו)  ; double
-	("V" "װ") ; duplicate
+	("v" ?ו)  ; duplicate
+	("V" "בֿ")
 	("w" ?ו)
 	("W" "װ")
 	("x" ?ס)
 	("X" "שׂ")
+	("y" ?ע) ; duplicate
+	("Y" ?ע) ; duplicate
 	("z" ?ז)
 	("Z" ?ז) ; duplicate
   )
