@@ -1,6 +1,27 @@
 # yi-phonetic
 
-IBus m17n phonetic Yiddish layout for English keyboards.
+IBus m17n phonetic Yiddish layout for English keyboards. The layout targets all Yiddish orthographies: including Hareidish, Klal Takones and YIVO, as well as Hebrew with or without niqqud.
+
+## Layout
+
+	Q	W	E	R	T	Y	U	I	O	P
+	ק	װ	ע	ר	ת	א	ו	י	אָ	פּ
+	כּ	ױ	 ֶ	 ֿ	תּ	 ְ	וּ	יִ	 ָ	פֿ
+	
+	A	S	D	F	G	H	J	K	K
+	אַ	ש	ד	פ	ג	ה	ײ	כ	ל
+	 ַ	שׁ	 ּ	ף	 ִ	ח	ײַ	ך	 ֫
+
+		Z	X	C	V	B	N	M
+		ז	ס	צ	ט	ב	נ	מ
+		₪	שׂ	ץ	 ֻ	בֿ	ן	ם
+
+	Y+E  ֱ	` ׳
+	Y+O  ֳ	`` ״
+	Y+A  ֲ	- ־
+	O+O  ֹ	-- -
+	E+E  ֵ
+	L+L  ֽ
 
 ## Installation
 
